@@ -1,0 +1,7 @@
+{
+  "name": "Nuanjan/DVWA",
+  "description": "A sample PHP project for security testing",
+  "require": {
+    "monolog/monolog": "^2.0"
+  }
+}
